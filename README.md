@@ -1,16 +1,10 @@
 ## Hi there :robot:
 
-My name is TeJhon. I'm currently pursuing a B.S. in Computer Science at Frostburg State University(2025-2028) while focusing on performance engineering. 
+My name is TeJhon. I'm pursuing a B.S. in Computer Science at Frostburg State University; expecting to graduate in 2028. 
 
 In early 2026 I became an active member of FLAIR, an NSF supported AI and Robotics laboratory at my university.
 
-Programming languages:
-
-C++ - primary
-
-ASM - reasoning
-
-Python - as a tool (research, testing, scripting)
+Programming languages: C++, asm, Python
 
 :mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
