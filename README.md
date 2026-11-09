@@ -1,10 +1,20 @@
 ## Hi there :robot:
 
-My name is TeJhon. I'm pursuing a B.S. in Computer Science at Frostburg State University; expecting to graduate in 2028. 
+My name is TeJhon. I'm pursuing a B.S. in Computer Science at Frostburg State University while expecting to graduate in 2028. 
 
-In early 2026 I became an active member of FLAIR, an NSF supported AI and Robotics laboratory at my university.
+In early 2026 I became an active member of FLAIR, an NSF supported AI and Robotics laboratory at Frostburg State University.
+
+I'm open to internship opportunities in summer 2027 and 2028 for systems, low latency, and research roles.
 
 Programming languages: C++, asm, Python
+
+## Currently building
+
+- **Order book engine** (C++): following Ghosh's design from Packt, then benchmarking and optimizing for latency
+- **x86 kernel**: built alongside Daniel McCarthy's course, adding my own features
+- **FLAIR project**: using AI to help the biology department with a research problem
+
+I follow a build → benchmark → improve loop and will publish the numbers in each repo.
 
 :mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
 <!--
