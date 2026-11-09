@@ -16,7 +16,7 @@ Programming languages: C++, asm, Python
 
 I follow a build → benchmark → improve loop and will publish the numbers in each repo.
 
-:mailbox: [Click here to connect on LinkedIn](https://linkedin.com/in/tejhon)   
+:mailbox: [Linkedin](https://linkedin.com/in/tejhon)   
 <!--
 **ahmere-s/ahmere-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
