@@ -14,8 +14,6 @@ Programming languages: C++, asm, Python
 - **x86 kernel**: built alongside Daniel McCarthy's course, adding my own features
 - **FLAIR project**: using AI to help the biology department with a research problem
 
-I follow a build → benchmark → improve loop and will publish the numbers in each repo.
-
 :mailbox: [Linkedin](https://linkedin.com/in/tejhon)   
 <!--
 **ahmere-s/ahmere-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
