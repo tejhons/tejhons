@@ -10,9 +10,8 @@ Programming languages: C++, asm, Python
 
 ## Currently building
 
-- **Order book engine** (C++): following Ghosh's design from Packt, then benchmarking and optimizing for latency
-- **x86 kernel**: built alongside Daniel McCarthy's course, adding my own features
-- **FLAIR project**: using AI to help the biology department with a research problem
+- **Order book engine** (C++): Following Ghosh's design from Packt, then benchmarking and optimizing for latency
+- **FLAIR project**: Biology department research
 
 :mailbox: [Linkedin](https://linkedin.com/in/tejhon)   
 <!--
