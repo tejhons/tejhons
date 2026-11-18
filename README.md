@@ -8,11 +8,6 @@ I'm open to internship opportunities in summer 2027 and 2028 for systems, low la
 
 Programming languages: C++, asm, Python
 
-## Currently building
-
-- **Order book engine** (C++): Following Ghosh's design from Packt, then benchmarking and optimizing for latency
-- **FLAIR project**: Biology department research
-
 :mailbox: [Linkedin](https://linkedin.com/in/tejhon)   
 <!--
 **ahmere-s/ahmere-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
